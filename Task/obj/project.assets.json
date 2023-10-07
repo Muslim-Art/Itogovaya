@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALIENWARE X1\\Desktop\\Proekti\\Itogovaya\\Total\\Total.csproj",
+      "projectUniqueName": "C:\\Users\\ALIENWARE X1\\Desktop\\Proekti\\Itogovaya\\Task\\Total.csproj",
       "projectName": "Total",
-      "projectPath": "C:\\Users\\ALIENWARE X1\\Desktop\\Proekti\\Itogovaya\\Total\\Total.csproj",
+      "projectPath": "C:\\Users\\ALIENWARE X1\\Desktop\\Proekti\\Itogovaya\\Task\\Total.csproj",
       "packagesPath": "C:\\Users\\ALIENWARE X1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALIENWARE X1\\Desktop\\Proekti\\Itogovaya\\Total\\obj\\",
+      "outputPath": "C:\\Users\\ALIENWARE X1\\Desktop\\Proekti\\Itogovaya\\Task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALIENWARE X1\\AppData\\Roaming\\NuGet\\NuGet.Config"

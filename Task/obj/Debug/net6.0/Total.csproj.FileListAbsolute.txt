@@ -1,0 +1,15 @@
+C:\Users\ALIENWARE X1\Desktop\Proekti\Itogovaya\Task\bin\Debug\net6.0\Total.exe
+C:\Users\ALIENWARE X1\Desktop\Proekti\Itogovaya\Task\bin\Debug\net6.0\Total.deps.json
+C:\Users\ALIENWARE X1\Desktop\Proekti\Itogovaya\Task\bin\Debug\net6.0\Total.runtimeconfig.json
+C:\Users\ALIENWARE X1\Desktop\Proekti\Itogovaya\Task\bin\Debug\net6.0\Total.dll
+C:\Users\ALIENWARE X1\Desktop\Proekti\Itogovaya\Task\bin\Debug\net6.0\Total.pdb
+C:\Users\ALIENWARE X1\Desktop\Proekti\Itogovaya\Task\obj\Debug\net6.0\Total.csproj.AssemblyReference.cache
+C:\Users\ALIENWARE X1\Desktop\Proekti\Itogovaya\Task\obj\Debug\net6.0\Total.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALIENWARE X1\Desktop\Proekti\Itogovaya\Task\obj\Debug\net6.0\Total.AssemblyInfoInputs.cache
+C:\Users\ALIENWARE X1\Desktop\Proekti\Itogovaya\Task\obj\Debug\net6.0\Total.AssemblyInfo.cs
+C:\Users\ALIENWARE X1\Desktop\Proekti\Itogovaya\Task\obj\Debug\net6.0\Total.csproj.CoreCompileInputs.cache
+C:\Users\ALIENWARE X1\Desktop\Proekti\Itogovaya\Task\obj\Debug\net6.0\Total.dll
+C:\Users\ALIENWARE X1\Desktop\Proekti\Itogovaya\Task\obj\Debug\net6.0\refint\Total.dll
+C:\Users\ALIENWARE X1\Desktop\Proekti\Itogovaya\Task\obj\Debug\net6.0\Total.pdb
+C:\Users\ALIENWARE X1\Desktop\Proekti\Itogovaya\Task\obj\Debug\net6.0\Total.genruntimeconfig.cache
+C:\Users\ALIENWARE X1\Desktop\Proekti\Itogovaya\Task\obj\Debug\net6.0\ref\Total.dll
